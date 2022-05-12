@@ -1,0 +1,1 @@
+# suicidal_filipino_checkers_bot
